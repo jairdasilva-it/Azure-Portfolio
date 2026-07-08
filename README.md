@@ -81,10 +81,9 @@ Mon objectif est d'intégrer un poste d'Administrateur Cloud Azure afin de mettr
 
 ## ✅ Laboratoires terminés
 
-- Azure Virtual Machines
+- Azure Network Security Groups
 - Azure Bastion
 - Azure Standard Load Balancer
-- Azure Network Security Groups
 - Azure Application Gateway
 
 ## 🔄 En cours
