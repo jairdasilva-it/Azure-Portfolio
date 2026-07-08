@@ -2,7 +2,7 @@
 
 Bienvenue sur mon portfolio Azure.
 
-Je m'appelle **Jair Da Silva**, Technicien Systèmes & Réseaux, actuellement en reconversion vers l'administration Cloud Microsoft Azure.
+Je m'appelle **Jair Da Silva** et je suis actuellement en reconversion professionnelle vers les métiers de l'informatique, avec pour objectif de devenir Administrateur Cloud Microsoft Azure.
 
 Ce portfolio regroupe l'ensemble des laboratoires pratiques que j'ai réalisés dans le cadre de ma préparation à la certification **Microsoft Azure Administrator (AZ-104)**.
 
