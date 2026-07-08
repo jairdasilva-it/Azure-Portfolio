@@ -36,14 +36,14 @@ L'objectif est de démontrer mes compétences à travers des projets concrets, d
 
 # 📂 Projets
 
-| Projet | Description |
-|---------|-------------|
-| Azure Virtual Machines | Déploiement et administration de machines virtuelles Windows Server |
-| Azure Bastion | Connexion sécurisée aux machines virtuelles sans exposition du port RDP |
-| Azure Standard Load Balancer | Répartition de charge HTTP entre plusieurs serveurs IIS |
-| Azure Network Security Groups | Contrôle du trafic réseau à l'aide de règles de sécurité |
+| Projet | Statut | Description |
+|---------|:------:|-------------|
+| ✅ Azure Network Security Groups (NSG) | Terminé | Contrôle du trafic réseau grâce aux règles de sécurité appliquées aux interfaces réseau. |
+| ✅ Azure Bastion | Terminé | Connexion sécurisée aux machines virtuelles Azure sans exposer le port RDP sur Internet. |
+| ✅ Azure Standard Load Balancer | Terminé | Répartition de charge HTTP entre plusieurs serveurs IIS avec surveillance de leur état de santé. |
+| ✅ Azure Application Gateway | Terminé | Publication sécurisée d'une application Web avec routage HTTP et reverse proxy. |
 
-De nouveaux laboratoires seront ajoutés au fur et à mesure de ma progression sur Azure.
+De nouveaux laboratoires seront ajoutés au fur et à mesure de ma progression sur Microsoft Azure.
 
 ---
 
