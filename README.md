@@ -1,12 +1,16 @@
 # ☁️ Azure Administrator Portfolio
 
-Bienvenue sur mon portfolio Azure.
+![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-0089D6)
+![Windows Server](https://img.shields.io/badge/Windows_Server-2025-0078D6?logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Status](https://img.shields.io/badge/Portfolio-In_Progress-success)
 
-Je m'appelle **Jair Da Silva** et je suis actuellement en reconversion professionnelle vers les métiers de l'informatique, avec pour objectif de devenir Administrateur Cloud Microsoft Azure.
+Bienvenue sur mon portfolio Microsoft Azure.
 
-Ce portfolio regroupe l'ensemble des laboratoires pratiques que j'ai réalisés dans le cadre de ma préparation à la certification **Microsoft Azure Administrator (AZ-104)**.
+Ce portfolio présente les laboratoires pratiques que j'ai réalisés dans le cadre de ma préparation à la certification **Microsoft Azure Administrator (AZ-104)** et de ma reconversion vers les métiers de l'informatique.
 
-L'objectif est de démontrer mes compétences à travers des projets concrets, documentés et reproductibles, couvrant les principaux services Azure utilisés en entreprise.
+Chaque projet a été conçu, déployé, testé et documenté afin de démontrer mes compétences pratiques en administration système, réseaux et Cloud Microsoft Azure.
 
 ---
 
@@ -34,23 +38,29 @@ L'objectif est de démontrer mes compétences à travers des projets concrets, d
 
 ---
 
+# 📊 Portfolio
+
+Ce portfolio comprend actuellement **4 laboratoires Azure** entièrement déployés, testés et documentés.
+
+Chaque projet est disponible sur GitHub avec son architecture, ses captures d'écran, son README détaillé et les différentes étapes de configuration.
+
+---
+
 # 📂 Projets
 
 | Projet | Statut | Description |
 |---------|:------:|-------------|
-| ✅ Azure Network Security Groups (NSG) | Terminé | Contrôle du trafic réseau grâce aux règles de sécurité appliquées aux interfaces réseau. |
-| ✅ Azure Bastion | Terminé | Connexion sécurisée aux machines virtuelles Azure sans exposer le port RDP sur Internet. |
-| ✅ Azure Load Balancer | Terminé | Répartition de charge HTTP entre plusieurs serveurs IIS avec surveillance de leur état de santé. |
-| ✅ Azure Application Gateway | Terminé | Publication sécurisée d'une application Web avec routage HTTP et reverse proxy. |
-
-De nouveaux laboratoires seront ajoutés au fur et à mesure de ma progression sur Microsoft Azure.
+| ✅ [Azure Network Security Groups (NSG)](https://github.com/jairdasilva-it/Azure-Network-Security-Group) | Terminé | Contrôle du trafic réseau grâce aux règles de sécurité appliquées aux interfaces réseau. |
+| ✅ [Azure Bastion](https://github.com/jairdasilva-it/Azure-Bastion) | Terminé | Connexion sécurisée aux machines virtuelles Azure sans exposer le port RDP sur Internet. |
+| ✅ [Azure Load Balancer](https://github.com/jairdasilva-it/Azure-Load-Balancer) | Terminé | Répartition de charge HTTP entre plusieurs serveurs IIS avec surveillance de leur état de santé. |
+| ✅ [Azure Application Gateway](https://github.com/jairdasilva-it/Azure-Application-Gateway) | Terminé | Publication sécurisée d'une application Web avec routage HTTP et reverse proxy. |
 
 ---
 
 # 💼 Compétences développées
 
 - Déploiement d'infrastructures Microsoft Azure
-- Administration de machines virtuelles
+- Administration de machines virtuelles Azure
 - Gestion des réseaux virtuels (VNet)
 - Configuration des sous-réseaux Azure
 - Gestion des Network Security Groups (NSG)
@@ -73,7 +83,7 @@ De nouveaux laboratoires seront ajoutés au fur et à mesure de ma progression s
 
 # 🚀 Objectif professionnel
 
-Mon objectif est d'intégrer un poste d'Administrateur Cloud Azure afin de mettre en pratique mes compétences en administration système, réseaux et Cloud dans un environnement professionnel.
+Mon objectif est d'intégrer un poste en informatique afin de mettre en pratique mes compétences en administration systèmes, réseaux et Microsoft Azure, tout en poursuivant ma progression vers les métiers du Cloud.
 
 ---
 
@@ -81,7 +91,7 @@ Mon objectif est d'intégrer un poste d'Administrateur Cloud Azure afin de mettr
 
 ## ✅ Laboratoires terminés
 
-- Azure Network Security Groups
+- Azure Network Security Groups (NSG)
 - Azure Bastion
 - Azure Load Balancer
 - Azure Application Gateway
@@ -113,7 +123,7 @@ Mon objectif est d'intégrer un poste d'Administrateur Cloud Azure afin de mettr
 
 **Jair Da Silva**
 
-Technicien Systèmes & Réseaux | Support IT N1/N2 | Microsoft Azure
+Professionnel en reconversion vers les métiers de l'informatique et du Cloud Microsoft Azure
 
 GitHub : https://github.com/jairdasilva-it
 
