@@ -40,7 +40,7 @@ L'objectif est de démontrer mes compétences à travers des projets concrets, d
 |---------|:------:|-------------|
 | ✅ Azure Network Security Groups (NSG) | Terminé | Contrôle du trafic réseau grâce aux règles de sécurité appliquées aux interfaces réseau. |
 | ✅ Azure Bastion | Terminé | Connexion sécurisée aux machines virtuelles Azure sans exposer le port RDP sur Internet. |
-| ✅ Azure Standard Load Balancer | Terminé | Répartition de charge HTTP entre plusieurs serveurs IIS avec surveillance de leur état de santé. |
+| ✅ Azure Load Balancer | Terminé | Répartition de charge HTTP entre plusieurs serveurs IIS avec surveillance de leur état de santé. |
 | ✅ Azure Application Gateway | Terminé | Publication sécurisée d'une application Web avec routage HTTP et reverse proxy. |
 
 De nouveaux laboratoires seront ajoutés au fur et à mesure de ma progression sur Microsoft Azure.
@@ -83,7 +83,7 @@ Mon objectif est d'intégrer un poste d'Administrateur Cloud Azure afin de mettr
 
 - Azure Network Security Groups
 - Azure Bastion
-- Azure Standard Load Balancer
+- Azure Load Balancer
 - Azure Application Gateway
 
 ## 🔄 En cours
