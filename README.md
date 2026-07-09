@@ -48,7 +48,7 @@ Chaque projet est disponible sur GitHub avec son architecture, ses captures d'é
 
 | Projet | Statut | Description |
 |---|---|---|
-| ✅ [Azure Network Security Groups (NSG)](https://github.com/jairdasilva-it/Azure-NSG-Lab) | Terminé | Contrôle du trafic réseau grâce aux règles de sécurité appliquées aux interfaces réseau. |
+| ✅ [Azure Network Security Groups (NSG)](https://github.com/jairdasilva-it/Azure-Network-Security-Group) | Terminé | Contrôle du trafic réseau grâce aux règles de sécurité appliquées aux interfaces réseau. |
 | ✅ [Azure Bastion](https://github.com/jairdasilva-it/Azure-Bastion-Lab) | Terminé | Connexion sécurisée aux machines virtuelles Azure sans exposer le port RDP sur Internet. |
 | ✅ [Azure Load Balancer](https://github.com/jairdasilva-it/Azure-Load-Balancer) | Terminé | Répartition de charge HTTP entre plusieurs serveurs IIS avec surveillance de leur état de santé. |
 | ✅ [Azure Application Gateway](https://github.com/jairdasilva-it/Azure-Application-Gateway) | Terminé | Publication sécurisée d'une application Web avec routage HTTP et reverse proxy. |
