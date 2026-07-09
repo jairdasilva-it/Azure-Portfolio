@@ -50,10 +50,13 @@ Chaque projet est disponible sur GitHub avec son architecture, ses captures d'é
 
 | Projet | Statut | Description |
 |---------|:------:|-------------|
-| ✅ [Azure Network Security Groups (NSG)](https://github.com/jairdasilva-it/Azure-Network-Security-Group) | Terminé | Contrôle du trafic réseau grâce aux règles de sécurité appliquées aux interfaces réseau. |
-| ✅ [Azure Bastion](https://github.com/jairdasilva-it/Azure-Bastion) | Terminé | Connexion sécurisée aux machines virtuelles Azure sans exposer le port RDP sur Internet. |
-| ✅ [Azure Load Balancer](https://github.com/jairdasilva-it/Azure-Load-Balancer) | Terminé | Répartition de charge HTTP entre plusieurs serveurs IIS avec surveillance de leur état de santé. |
-| ✅ [Azure Application Gateway](https://github.com/jairdasilva-it/Azure-Application-Gateway) | Terminé | Publication sécurisée d'une application Web avec routage HTTP et reverse proxy. |
+| ✅ Azure Network Security Groups (NSG) | Terminé | Contrôle du trafic réseau grâce aux règles de sécurité appliquées aux interfaces réseau. |
+| ✅ Azure Bastion | Terminé | Connexion sécurisée aux machines virtuelles Azure sans exposer le port RDP sur Internet. |
+| ✅ Azure Load Balancer | Terminé | Répartition de charge HTTP entre plusieurs serveurs IIS avec surveillance de leur état de santé. |
+| ✅ Azure Application Gateway | Terminé | Publication sécurisée d'une application Web avec routage HTTP et reverse proxy. |
+| ✅ Azure Storage Account & Blob Storage | Terminé | Déploiement d'un Azure Storage Account, création d'un Blob Container et partage sécurisé de fichiers via Shared Access Signature (SAS). |
+
+Les liens vers chaque repository GitHub seront ajoutés au fur et à mesure de l'évolution du portfolio.
 
 ---
 
@@ -72,6 +75,9 @@ Chaque projet est disponible sur GitHub avec son architecture, ses captures d'é
 - Administration Windows Server
 - Utilisation de PowerShell
 - Validation d'une infrastructure Cloud
+- Azure Storage Accounts
+- Azure Blob Storage
+- Shared Access Signature (SAS)
 
 ---
 
@@ -95,6 +101,7 @@ Mon objectif est d'intégrer un poste en informatique afin de mettre en pratique
 - Azure Bastion
 - Azure Load Balancer
 - Azure Application Gateway
+- Azure Blob Storage
 
 ## 🔄 En cours
 
