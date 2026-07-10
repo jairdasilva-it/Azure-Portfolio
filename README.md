@@ -56,7 +56,7 @@ Chaque projet est disponible sur GitHub avec son architecture, ses captures d'é
 
 ---
 
-# 💼 Compétences développées
+# 🛠️ Compétences techniques développées
 
 - Déploiement d'infrastructures Microsoft Azure
 - Administration de machines virtuelles Azure
