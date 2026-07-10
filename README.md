@@ -23,7 +23,7 @@ Chaque projet a été conçu, déployé, testé et documenté afin de démontrer
 
 ---
 
-# 🛠️ Technologies
+# 💻 Technologies
 
 - Microsoft Azure
 - Azure Virtual Machines
