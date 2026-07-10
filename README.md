@@ -40,7 +40,7 @@ Chaque projet a été conçu, déployé, testé et documenté afin de démontrer
 
 # 📊 Portfolio
 
-Ce portfolio comprend actuellement **4 laboratoires Azure** entièrement déployés, testés et documentés.
+Ce portfolio comprend actuellement **5 laboratoires Azure** entièrement déployés, testés et documentés.
 
 Chaque projet est disponible sur GitHub avec son architecture, ses captures d'écran, son README détaillé et les différentes étapes de configuration.
 
