@@ -52,7 +52,7 @@ Chaque projet est disponible sur GitHub avec son architecture, ses captures d'é
 | ✅ [Azure Bastion](https://github.com/jairdasilva-it/Azure-Bastion) | Terminé | Connexion sécurisée aux machines virtuelles Azure sans exposer le port RDP sur Internet. |
 | ✅ [Azure Load Balancer](https://github.com/jairdasilva-it/Azure-Load-Balancer) | Terminé | Répartition de charge HTTP entre plusieurs serveurs IIS avec surveillance de leur état de santé. |
 | ✅ [Azure Application Gateway](https://github.com/jairdasilva-it/Azure-Application-Gateway) | Terminé | Publication sécurisée d'une application Web avec routage HTTP et reverse proxy. |
-| ✅ [Azure Storage Account & Blob Storage](https://github.com/jairdasilva-it/Azure-Storage-Account-Blob-Storage) | Terminé | Déploiement d'un Azure Storage Account, création d'un Blob Container et partage sécurisé de fichiers via Shared Access Signature (SAS). |
+| ✅ [Azure Storage Account-Blob Storage](https://github.com/jairdasilva-it/Azure-Storage-Account-Blob-Storage) | Terminé | Déploiement d'un Azure Storage Account, création d'un Blob Container et partage sécurisé de fichiers via Shared Access Signature (SAS). |
 
 ---
 
