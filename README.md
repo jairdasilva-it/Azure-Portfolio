@@ -27,11 +27,14 @@ Chaque projet a été conçu, déployé, testé et documenté afin de démontrer
 
 - Microsoft Azure
 - Azure Virtual Machines
+- Azure Virtual Machine Scale Sets (VMSS)
 - Azure Virtual Network (VNet)
 - Azure Network Security Groups (NSG)
 - Azure Bastion
 - Azure Standard Load Balancer
 - Azure Application Gateway
+- Azure Storage Accounts
+- Azure Blob Storage
 - Windows Server 2025
 - IIS (Internet Information Services)
 - PowerShell
@@ -40,7 +43,7 @@ Chaque projet a été conçu, déployé, testé et documenté afin de démontrer
 
 # 📊 Portfolio
 
-Ce portfolio comprend actuellement **5 laboratoires Azure** entièrement déployés, testés et documentés.
+Ce portfolio comprend actuellement **6 laboratoires Azure** entièrement déployés, testés et documentés.
 
 Chaque projet est disponible sur GitHub avec son architecture, ses captures d'écran, son README détaillé et les différentes étapes de configuration.
 
@@ -52,7 +55,8 @@ Chaque projet est disponible sur GitHub avec son architecture, ses captures d'é
 | ✅ [Azure Bastion](https://github.com/jairdasilva-it/Azure-Bastion) | Terminé | Connexion sécurisée aux machines virtuelles Azure sans exposer le port RDP sur Internet. |
 | ✅ [Azure Load Balancer](https://github.com/jairdasilva-it/Azure-Load-Balancer) | Terminé | Répartition de charge HTTP entre plusieurs serveurs IIS avec surveillance de leur état de santé. |
 | ✅ [Azure Application Gateway](https://github.com/jairdasilva-it/Azure-Application-Gateway) | Terminé | Publication sécurisée d'une application Web avec routage HTTP et reverse proxy. |
-| ✅ [Azure Storage Account-Blob Storage](https://github.com/jairdasilva-it/Azure-Storage-Account-Blob-Storage) | Terminé | Déploiement d'un Azure Storage Account, création d'un Blob Container et partage sécurisé de fichiers via Shared Access Signature (SAS). |
+| ✅ [Azure Storage Account - Blob Storage](https://github.com/jairdasilva-it/Azure-Storage-Account-Blob-Storage) | Terminé | Déploiement d'un Azure Storage Account, création d'un Blob Container et partage sécurisé de fichiers via Shared Access Signature (SAS). |
+| ✅ [Azure Virtual Machine Scale Set (VMSS)](https://github.com/jairdasilva-it/Azure-VMSS-Load-Balancer) | Terminé | Déploiement d'un VM Scale Set avec deux instances Windows Server, Azure Standard Load Balancer, IIS, Health Probe, règles NAT et validation de la répartition de charge. |
 
 ---
 
@@ -60,20 +64,25 @@ Chaque projet est disponible sur GitHub avec son architecture, ses captures d'é
 
 - Déploiement d'infrastructures Microsoft Azure
 - Administration de machines virtuelles Azure
+- Déploiement et administration d'Azure Virtual Machine Scale Sets (VMSS)
 - Gestion des réseaux virtuels (VNet)
 - Configuration des sous-réseaux Azure
 - Gestion des Network Security Groups (NSG)
 - Configuration de règles de sécurité réseau
 - Déploiement d'Azure Bastion
-- Déploiement d'Azure Load Balancer
+- Déploiement d'Azure Standard Load Balancer
 - Déploiement d'Azure Application Gateway
+- Configuration de Backend Pools
+- Configuration de Health Probes
+- Configuration de règles NAT
+- Répartition de charge HTTP
 - Installation et configuration d'IIS
 - Administration Windows Server
 - Utilisation de PowerShell
-- Validation d'une infrastructure Cloud
 - Azure Storage Accounts
 - Azure Blob Storage
 - Shared Access Signature (SAS)
+- Validation et dépannage d'infrastructures Cloud Microsoft Azure
 
 ---
 
@@ -97,7 +106,8 @@ Mon objectif est d'intégrer un poste en informatique afin de mettre en pratique
 - Azure Bastion
 - Azure Load Balancer
 - Azure Application Gateway
-- Azure Blob Storage
+- Azure Storage Account - Blob Storage
+- Azure Virtual Machine Scale Sets (VMSS)
 
 ## 🔄 En cours
 
@@ -106,9 +116,7 @@ Mon objectif est d'intégrer un poste en informatique afin de mettre en pratique
 
 ## 📌 Prochains laboratoires
 
-- Azure Storage Accounts
 - Azure RBAC (IAM)
-- Azure Virtual Machine Scale Sets (VMSS)
 - Azure Backup
 - Azure Monitor
 - Azure VPN Gateway
@@ -117,7 +125,6 @@ Mon objectif est d'intégrer un poste en informatique afin de mettre en pratique
 - Azure Availability Sets
 - Azure Availability Zones
 - Azure Files
-- Azure Blob Storage
 - Azure Site Recovery
 
 ---
