@@ -26,6 +26,9 @@ Chaque projet a été conçu, déployé, testé et documenté afin de démontrer
 # 💻 Technologies
 
 - Microsoft Azure
+- Microsoft Entra ID
+- Azure Role-Based Access Control (RBAC)
+- Azure Identity and Access Management (IAM)
 - Azure Virtual Machines
 - Azure Virtual Machine Scale Sets (VMSS)
 - Azure Virtual Network (VNet)
@@ -43,7 +46,7 @@ Chaque projet a été conçu, déployé, testé et documenté afin de démontrer
 
 # 📊 Portfolio
 
-Ce portfolio comprend actuellement **6 laboratoires Azure** entièrement déployés, testés et documentés.
+Ce portfolio comprend actuellement **7 laboratoires Azure** entièrement déployés, testés et documentés.
 
 Chaque projet est disponible sur GitHub avec son architecture, ses captures d'écran, son README détaillé et les différentes étapes de configuration.
 
@@ -57,13 +60,20 @@ Chaque projet est disponible sur GitHub avec son architecture, ses captures d'é
 | ✅ [Azure Application Gateway](https://github.com/jairdasilva-it/Azure-Application-Gateway) | Terminé | Publication sécurisée d'une application Web avec routage HTTP et reverse proxy. |
 | ✅ [Azure Storage Account - Blob Storage](https://github.com/jairdasilva-it/Azure-Storage-Account-Blob-Storage) | Terminé | Déploiement d'un Azure Storage Account, création d'un Blob Container et partage sécurisé de fichiers via Shared Access Signature (SAS). |
 | ✅ [Azure Virtual Machine Scale Set (VMSS)](https://github.com/jairdasilva-it/Azure-VMSS-Load-Balancer) | Terminé | Déploiement d'un VM Scale Set avec deux instances Windows Server, Azure Standard Load Balancer, IIS, Health Probe, règles NAT et validation de la répartition de charge. |
+| ✅ [Microsoft Entra ID & Azure RBAC](https://github.com/jairdasilva-it/Azure-Entra-ID-RBAC) | Terminé | Création et gestion d'un utilisateur et d'un groupe Microsoft Entra ID, attribution du rôle Contributor avec Azure RBAC et validation des permissions d'accès. |
 
 ---
 
 # 🛠️ Compétences techniques développées
 
 - Déploiement d'infrastructures Microsoft Azure
-- Administration de machines virtuelles Azure
+- Gestion des identités avec Microsoft Entra ID
+- Création et gestion d'utilisateurs et de groupes
+- Gestion des accès avec Azure RBAC (IAM)
+- Attribution de rôles Azure
+- Gestion des permissions au niveau d'un groupe de ressources
+- Validation des droits d'accès
+- Déploiement et administration de machines virtuelles Azure
 - Déploiement et administration d'Azure Virtual Machine Scale Sets (VMSS)
 - Gestion des réseaux virtuels (VNet)
 - Configuration des sous-réseaux Azure
@@ -108,6 +118,7 @@ Mon objectif est d'intégrer un poste en informatique afin de mettre en pratique
 - Azure Application Gateway
 - Azure Storage Account - Blob Storage
 - Azure Virtual Machine Scale Sets (VMSS)
+- Microsoft Entra ID & Azure RBAC (IAM)
 
 ## 🔄 En cours
 
@@ -116,7 +127,6 @@ Mon objectif est d'intégrer un poste en informatique afin de mettre en pratique
 
 ## 📌 Prochains laboratoires
 
-- Azure RBAC (IAM)
 - Azure Backup
 - Azure Monitor
 - Azure VPN Gateway
