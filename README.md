@@ -60,7 +60,7 @@ Chaque projet est disponible sur GitHub avec son architecture, ses captures d'é
 | ✅ [Azure Application Gateway](https://github.com/jairdasilva-it/Azure-Application-Gateway) | Terminé | Publication sécurisée d'une application Web avec routage HTTP et reverse proxy. |
 | ✅ [Azure Storage Account - Blob Storage](https://github.com/jairdasilva-it/Azure-Storage-Account-Blob-Storage) | Terminé | Déploiement d'un Azure Storage Account, création d'un Blob Container et partage sécurisé de fichiers via Shared Access Signature (SAS). |
 | ✅ [Azure Virtual Machine Scale Set (VMSS)](https://github.com/jairdasilva-it/Azure-VMSS-Load-Balancer) | Terminé | Déploiement d'un VM Scale Set avec deux instances Windows Server, Azure Standard Load Balancer, IIS, Health Probe, règles NAT et validation de la répartition de charge. |
-| ✅ [Microsoft Entra ID & Azure RBAC](https://github.com/jairdasilva-it/azure-entra-id-rbac) | Terminé | Création et gestion d'un utilisateur et d'un groupe Microsoft Entra ID, attribution du rôle Contributor avec Azure RBAC et validation des permissions d'accès. |
+| ✅ [Microsoft Entra ID & Azure RBAC](https://github.com/jairdasilva-it/Azure-Entra-ID-RBAC-) | Terminé | Création et gestion d'un utilisateur et d'un groupe Microsoft Entra ID, attribution du rôle Contributor avec Azure RBAC et validation des permissions d'accès. |
 
 ---
 
